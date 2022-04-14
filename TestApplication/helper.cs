@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 
 namespace TestApplication
 {
-    public class helper
+    public class Helper
     {
         public int UserID { get; set; }
+        public string Name { get; set; }
     }
 }
